@@ -8,6 +8,6 @@
 - 😄 Pronouns: Mackkkk
 - ⚡ Fun fact: ...
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=mackkkk&count_private=true&show_icons=true&theme=buefy">
 </p>
