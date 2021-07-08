@@ -4,6 +4,5 @@
 - 📫 Reach me: 104517120@qq.com
 - ⚡  Fun fact: LOL
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mackkkk&count_private=true&show_icons=true&theme=buefy">
-</p>
+<img  align="right"  src="https://github-readme-stats.vercel.app/api?username=mackkkk&count_private=true&show_icons=true&theme=buefy">
+
